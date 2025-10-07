@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "Isa",
+    "email": "isa@email.com",
+    "idade": 17
+  },
+  {
+    "id": 2,
+    "nome": "Ana",
+    "email": "ana@email.com",
+    "idade": 18
+  },
+  {
+    "id": 3,
+    "nome": "Kemmy",
+    "email": "kemmy@email.com",
+    "idade": 20
+  },
+  {
+    "id": 4,
+    "nome": "Duda",
+    "email": "duda@email.com",
+    "idade": 80
+  },
+  {
+    "id": 5,
+    "nome": "elo",
+    "email": "elo@email.com",
+    "idade": 26
+  }
+]
